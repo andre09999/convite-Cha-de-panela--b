@@ -23,7 +23,7 @@ function home({value}) {
       <h2 className='Nome msg'>Convidam você <h2 className='nomeCon'>{value}</h2> e sua familia  para o  seu chá de panela.</h2>
       <div className='date'>
       <h1 className='Nome mes'>ABRIL </h1>
-      <h2 className='Nome data'>Sábado <span className='numeral'>15</span> ás 11:30</h2>
+      <h2 className='Nome data'>Sábado <span className='numeral'>15</span> ás 18:00</h2>
       <h2 className='Nome mes'>2023</h2>
       </div>
       <div className='links'>
